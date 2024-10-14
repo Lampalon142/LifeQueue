@@ -1,0 +1,3 @@
+name: LifeQueue
+version: '${project.version}'
+main: dev.lampalon.lifequeue.LifeQueue
